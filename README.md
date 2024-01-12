@@ -5,7 +5,7 @@ This repository contains scripts for monitoring various aspects using SNMP (Simp
 ## Contents
 
 1. **script_SNMP**
-   - This script focuses on retrieving SNMP metrics related to the usage of CPU, RAM, and disk.
+   - This script focuses on retrieving SNMP metrics related to the usage of CPU, RAM, net interfaces and disk.
 
 2. **top10**
    - Scripts within this section are dedicated to identifying and listing the top 10 most resource-intensive services.
